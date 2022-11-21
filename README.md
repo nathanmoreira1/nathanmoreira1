@@ -1,5 +1,12 @@
 # 💫 Quem sou eu?
-🔭 Atualmente, trabalho desenvolvendo soluções em React Native para aplicações mobile.<br>👯 Gosto de trabalhar em equipe e me divertir no processo de desenvolvimento.<br>⚡ Me segue aí pra ficar de olho nos meus próximos projetos.
+📌 Atuo na área de T.I há 2 anos desenvolvendo aplicações web e mobile.
+<br>
+🛠️ Atualmente, trabalho desenvolvendo soluções em React Native para aplicações mobile.
+<br>
+👯 Gosto de trabalhar em equipe e me divertir no processo de desenvolvimento.
+<br>
+⚡ Me segue aí pra ficar de olho nos meus próximos projetos.
+
 
 
 ## 🌐 Onde me encontrar?
